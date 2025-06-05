@@ -1,5 +1,10 @@
 {
+  "name": "readme-validation-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest run"
+  },
   "devDependencies": {
-    "vitest": "^3.2.2"
+    "vitest": "latest"
   }
 }
